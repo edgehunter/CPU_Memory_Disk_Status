@@ -1,0 +1,17 @@
+﻿  stdafx.cpp
+  Device_Status.cpp
+d:\projects_lixiaoguang\projects\cpu_memory_disk_status\cpu_memory_disk_status\device_status.cpp(26): warning C4293: '<<': shift count negative or too big, undefined behavior
+d:\projects_lixiaoguang\projects\cpu_memory_disk_status\cpu_memory_disk_status\device_status.cpp(27): warning C4293: '<<': shift count negative or too big, undefined behavior
+d:\projects_lixiaoguang\projects\cpu_memory_disk_status\cpu_memory_disk_status\device_status.cpp(35): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+d:\projects_lixiaoguang\projects\cpu_memory_disk_status\cpu_memory_disk_status\device_status.cpp(36): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+d:\projects_lixiaoguang\projects\cpu_memory_disk_status\cpu_memory_disk_status\device_status.cpp(37): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+d:\projects_lixiaoguang\projects\cpu_memory_disk_status\cpu_memory_disk_status\device_status.cpp(82): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\projects_lixiaoguang\projects\cpu_memory_disk_status\cpu_memory_disk_status\device_status.cpp(133): warning C4244: '=': conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+d:\projects_lixiaoguang\projects\cpu_memory_disk_status\cpu_memory_disk_status\device_status.cpp(134): warning C4244: '=': conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+d:\projects_lixiaoguang\projects\cpu_memory_disk_status\cpu_memory_disk_status\device_status.cpp(135): warning C4244: '=': conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+  CPU_Memory_Disk_Status.cpp
+d:\projects_lixiaoguang\projects\cpu_memory_disk_status\cpu_memory_disk_status\cpu_memory_disk_status.cpp(151): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  CPU_Memory_Disk_Status.vcxproj -> D:\Projects_lixiaoguang\Projects\CPU_Memory_Disk_Status\Debug\CPU_Memory_Disk_Status.exe
+  CPU_Memory_Disk_Status.vcxproj -> D:\Projects_lixiaoguang\Projects\CPU_Memory_Disk_Status\Debug\CPU_Memory_Disk_Status.pdb (Full PDB)
